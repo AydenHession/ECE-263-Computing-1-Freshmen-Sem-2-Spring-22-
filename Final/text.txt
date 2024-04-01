@@ -1,0 +1,46 @@
+Driver-ID appDate Time-In Previous-Team Position-Desired Wins
+Qualification-Point Race-Point
+==========================================================================
+================================
+10001 0 0 Porsche Main_Driver 44
+189 46.00
+10003 0 0 Porsche Substitute_Driver 44
+87 94.00
+10010 0 0 RedBull Test_Driver 24
+125 36.00
+10011 0 0 Alpine Substitute_Driver 6
+84 161.00
+10015 0 0 Haas Test_Driver 41
+85 747.00
+10016 0 0 Alpine Substitute_Driver 1
+58 979.00
+10023 0 0 Porsche Substitute_Driver 1
+55 599.00
+10024 0 0 Haas Main_Driver 45
+236 244.00
+10029 0 0 Porsche Test_Driver 33
+99 63.00
+10036 0 0 Haas Test_Driver 26
+19 44.00
+10037 0 0 Alpine Main_Driver 14
+25 98.00
+10040 0 0 RedBull Test_Driver 36
+154 670.00
+10047 0 0 Mclaren Test_Driver 38
+89 891.00
+10050 0 0 Haas Main_Driver 12
+80 561.00
+10052 0 0 Mercedes Main_Driver 27
+157 292.00
+10057 0 0 Haas Main_Driver 3
+74 139.00
+10062 0 0 Mercedes Substitute_Driver 5
+52 169.00
+10063 0 0 Mercedes Substitute_Driver 48
+139 87.00
+10070 0 0 Mclaren Main_Driver 33
+223 106.00
+10075 0 0 Haas Test_Driver 2
+174 181.00
+10079 0 0 Haas Substitute_Driver 12
+4 41.00
